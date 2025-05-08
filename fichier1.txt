@@ -1,1 +1,2 @@
 Ceci est le premier fichier
+Nouvelle ligne ajoutée pour amend.
