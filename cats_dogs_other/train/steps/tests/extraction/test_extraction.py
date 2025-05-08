@@ -1,6 +1,7 @@
 import shutil
 import unittest
 from pathlib import Path
+from io import BytesIO
 
 from cats_dogs_other.train.steps.extraction import extraction_from_annotation_file
 from cats_dogs_other.train.steps.s3_wrapper import IS3ClientWrapper
